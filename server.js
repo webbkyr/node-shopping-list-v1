@@ -22,6 +22,7 @@ ShoppingList.create('tomatoes', 3);
 ShoppingList.create('peppers', 4);
 
 Recipes.create('Brownies', ['milk', 'eggs', 'baking chocolate']);
+Recipes.create('Peanut and Jelly', ['bread', 'peanut butter', 'jelly']);
 
 // when the root of this router is called with GET, return
 // all current ShoppingList items
